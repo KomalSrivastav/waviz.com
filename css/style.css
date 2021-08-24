@@ -1,0 +1,150 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	font-family:Lato;
+}
+.top-bar{
+	background-color:#cc9933;
+	padding-top: 20px;
+	
+}
+.top-bar img{
+	padding:10px;
+}
+.category ul li{
+	display:flex;
+}
+.category1 ul {
+ display:flex;
+}
+.top-bar.columns{
+	margin-top:10px; 
+}
+.top-bar-icon span{
+ float: left;
+ padding: 10px;
+ display: flex;
+ font-size:14px; 
+}
+footer{
+	background-color:#cc9933!important;
+}
+footer ul li a{
+	text-decoration: none;
+}
+footer .links li a:hover{
+	border: 2px solid #000;
+    background-color:#000;  
+}
+footer .links li {
+	padding: 5px;
+    border-bottom: 1px solid #99cccc;
+}
+.box{ width: 40px;
+	 color:#fff;
+     background-color:#009999!important;
+      border: 3px solid #009999;     
+}
+.box1{
+	color:#fff;
+	background-color:#cc0033!important;
+}
+.box2{ width: 40px;
+	 color:#fff;
+     background-color:#000066!important;     
+}
+.box3{ width: 40px;
+	 color:#fff;
+     background-color:#660066!important;     
+}
+.box4{
+	 background-color:#000066!important;   
+}
+.gallery img {
+	width: 116%!important;
+    height:206px;
+    border: 1px solid #009999;
+    margin-left: -15px;
+
+}
+.gallery{
+	margin:20px; 
+	padding: 35px;
+}
+.navbar.bg-dark {
+    background-color: #000000!important;
+}
+.navbar a:hover{
+	background-color:#cc9933;
+
+}
+.navbar a:active {
+  color: blue;
+}
+.trophy{
+	margin-top:8px;
+}
+.user2{
+	margin-top:8px;
+}
+ .box4{
+ 	background-color:#ff6600!important;
+ 	color:#fff; 
+ }
+ .explore{
+ 	text-decoration: none;
+ 	color: #fff;
+
+ }
+ .explore:hover{
+ 	text-decoration: underline;
+ 	color:#000 ;
+ 	
+ }
+ .explore1{
+ 	text-decoration: none;
+ 	color: #fff;
+ }
+ .explore1:hover{
+ 	text-decoration: underline;
+ 	color:#000 ;
+ 	
+ }
+ .explore2{
+ 	text-decoration: none;
+ 	color: #fff;
+ }
+ .explore2:hover{
+ 	text-decoration: underline;
+ 	color:#000 ;
+ 	
+ }
+ .explore3{
+ 	text-decoration: none;
+ 	color: #fff;
+ }
+ .explore3:hover{
+ 	text-decoration: underline;
+ 	color:#000 ;
+ 	
+ }
+ .explore4{
+ 	text-decoration: none;
+ 	color: #fff;
+ }
+ .explore4:hover{
+ 	text-decoration: underline;
+ 	color:#000 ;
+ 	
+ }
+ .explore5{
+ 	text-decoration: none;
+ 	color: #fff;
+ }
+ .explore5:hover{
+ 	text-decoration: underline;
+ 	color:#000;	
+ }
