@@ -63,19 +63,29 @@ footer .links li {
 .box4{
 	 background-color:#000066!important;   
 }
-.gallery img {
-	width: 116%!important;
+#gallery img {
+	width:106%!important;
     height:206px;
     border: 1px solid #009999;
     margin-left: -15px;
 
 }
+.gallery img{
+	width: 110%!important;
+} 
 .gallery{
 	margin:20px; 
-	padding: 35px;
+	padding:31px;
+}
+#gallery2{
+	width: 110%!important;
 }
 .navbar.bg-dark {
     background-color: #000000!important;
+
+}
+.navbar.bg-dark ul li a{
+   color:#fff!important; 
 }
 .navbar a:hover{
 	background-color:#cc9933;
@@ -104,47 +114,13 @@ footer .links li {
  	color:#000 ;
  	
  }
- .explore1{
+ .explore{
  	text-decoration: none;
  	color: #fff;
  }
- .explore1:hover{
+ .explore:hover{
  	text-decoration: underline;
  	color:#000 ;
  	
  }
- .explore2{
- 	text-decoration: none;
- 	color: #fff;
- }
- .explore2:hover{
- 	text-decoration: underline;
- 	color:#000 ;
- 	
- }
- .explore3{
- 	text-decoration: none;
- 	color: #fff;
- }
- .explore3:hover{
- 	text-decoration: underline;
- 	color:#000 ;
- 	
- }
- .explore4{
- 	text-decoration: none;
- 	color: #fff;
- }
- .explore4:hover{
- 	text-decoration: underline;
- 	color:#000 ;
- 	
- }
- .explore5{
- 	text-decoration: none;
- 	color: #fff;
- }
- .explore5:hover{
- 	text-decoration: underline;
- 	color:#000;	
- }
+ 
