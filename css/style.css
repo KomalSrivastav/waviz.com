@@ -95,7 +95,10 @@ footer .links li {
   color: blue;
 }
 .trophy{
-	margin-top:8px;
+	margin-top:10px;
+}
+.trophy2{
+	margin-top:-4px; 
 }
 .user2{
 	margin-top:8px;
